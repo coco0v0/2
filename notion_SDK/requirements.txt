@@ -1,0 +1,4 @@
+ezdict
+requests
+bs4
+tqdm
